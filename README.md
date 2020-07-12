@@ -72,7 +72,7 @@ STEP 4
 ## Deploying
 CLICK DEPLOY BUTTON ON YOUR FORKED REPO. THATS IT !
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cocoamartin/pab/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Fill up rest of the fields. Meaning of each fields are discussed below:
 - **BOT_TOKEN** : The telegram bot token that you get from @BotFather
