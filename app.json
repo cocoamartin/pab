@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/herrysis404/python-aria-mirror-bot",
-    "website": "https://github.com/herrysis404/testbotllzy/tree/master",
-    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+    "repository": "https://github.com/cocoamartin/pab",
+    "website": "https://github.com/cocoamartin/pab/tree/master",
+    "success_url": "https://github.com/cocoamartin/pab/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
